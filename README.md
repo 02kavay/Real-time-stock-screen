@@ -53,4 +53,4 @@ The application successfully exceeds the sub-200ms filter requirement by orders 
 ## Deployment
 
 The application is fully configured for zero-downtime deployment on Vercel. 
-**Live Demo:** [https://pro-screener-app.vercel.app/](https://pro-screener-app.vercel.app/)
+**Live Demo:** [https://real-time-stock-screen.vercel.app](https://real-time-stock-screen.vercel.app)
